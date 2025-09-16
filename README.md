@@ -37,6 +37,7 @@
 
 * Tartarus2014 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Surge-Script项目的规则，则视为您已接受此免责声明.
 
+
 ### 特别感谢 ：
 * [@NobyDa](https://github.com/NobyDa)
 
@@ -48,8 +49,7 @@
 
 * [@yichahucha](https://github.com/yichahucha)
 
-* [@onewayticket255](https://github.com/onewayticket255)
-
 * [@Neurogram-R](https://github.com/Neurogram-R)
 
 * [@公众号墨鱼手记](https://github.com/ddgksf2013)
+
